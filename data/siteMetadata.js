@@ -1,8 +1,8 @@
 const siteMetadata = {
   title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
+  author: 'Dan_matt',
   headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'The intersection of technology, privacy, and freedom in a digital world. ',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
