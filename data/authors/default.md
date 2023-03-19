@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: Dan_matt
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Student
+company: 
+email: hermione311@duck.com
+//twitter: https://twitter.com/Twitter
+//linkedin: https://www.linkedin.com
+//github: https://github.com
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Ahoy there, mateys! I be Dan Matt, captain and creator of this blog. As a seasoned technologist, I've always been fascinated by the intersection of technology and privacy, and that's what drove me to set sail on this digital adventure. 
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+On me ship, the Jolly Roger, ye'll find a treasure trove of information on all manner of topics related to tech and privacy, including the latest news and updates, reviews of the best privacy tools and software, and savvy tips for protecting yer online booty. I'm a firm believer that every sailor has the right to privacy and security on the high seas of the internet, and I aim to help my fellow buccaneers navigate these treacherous waters with confidence. When I'm not plundering the seas of knowledge, I enjoy reading and playing games, and I'm a staunch supporter of the Linux and open-source communities. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Thanks for coming aboard, me hearties, and may ye find the riches of knowledge and security ye seek on me humble vessel.
