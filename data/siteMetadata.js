@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Jolly Ronger',
   author: 'Dan_matt',
   headerTitle: 'Pirate',
-  description: 'The intersection of technology, privacy, and freedom in a digital world. ',
+  description: 'Set sail on a digital adventure and navigate the dynamic waters of technology, privacy, piracy, cybersecurity, and freedom.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://speek-olive.vercel.app',
