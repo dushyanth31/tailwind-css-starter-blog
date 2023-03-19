@@ -10,7 +10,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
+  email: 'hermione311@duck.com',
   github: 'https://github.com',
   twitter: 'https://twitter.com/Twitter',
   //facebook: 'https://facebook.com',
