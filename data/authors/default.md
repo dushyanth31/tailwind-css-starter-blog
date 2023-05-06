@@ -1,7 +1,6 @@
 ---
 name: Dan_matt
 avatar: /static/images/avatar.png
-occupation: Student
 company: 
 email: hermione311@duck.com
 //twitter: https://twitter.com/Twitter
