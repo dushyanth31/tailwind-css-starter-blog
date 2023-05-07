@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Jolly Ronger',
+  title: 'Jolly Roger',
   author: 'Dan_matt',
   headerTitle: 'Jolly Roger',
   description: 'Set sail on a digital adventure and navigate the dynamic waters of technology, privacy, piracy, cybersecurity, and freedom.',
