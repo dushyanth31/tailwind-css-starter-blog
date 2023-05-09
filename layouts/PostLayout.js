@@ -146,7 +146,6 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             </footer>
           </div>
         </div>
-        <p class="text-gray-500 text-sm">{{ frontmatter.reading_time }} minute read</p>
       </article>
     </SectionContainer>
   )
