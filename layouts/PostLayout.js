@@ -38,10 +38,10 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                     <time dateTime={date}>
                       {new Date(date).toLocaleDateString(siteMetadata.locale, postDateTemplate)}
                     </time>
-                     <p class="text-gray-500 text-sm">{{ frontmatter.reading_time }} minute read</p>
                   </dd>
                 </div>
               </dl>
+               <p class="text-gray-500 text-sm">{{ frontmatter.reading_time }} minute read</p>
               <div>
                 <PageTitle>{title}</PageTitle>
               </div>
