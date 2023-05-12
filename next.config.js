@@ -12,6 +12,15 @@ const ContentSecurityPolicy = `
   connect-src *;
   font-src 'self';
   frame-src giscus.app
+  {
+  contentSecurityPolicy: {
+    directives: {
+      // ...
+      scriptSrc: ["'self'", "'unsafe-eval'", "giscus.app", "github.com"],
+      // ...
+    },
+  },
+}
 `
 
 const securityHeaders = [
