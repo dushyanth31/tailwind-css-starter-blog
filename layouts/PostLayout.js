@@ -17,7 +17,7 @@ const discussUrl = (slug) =>
 const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
-const { slug, fileName, date, title, images, tags, readingTime} = frontMatter
+const { slug, fileName, date, title, images, tags, readingTime } = frontMatter
   
   return (
     <SectionContainer>
