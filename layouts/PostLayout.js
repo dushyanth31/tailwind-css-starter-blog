@@ -17,8 +17,18 @@ const discussUrl = (slug) =>
 const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
-  const { slug, fileName, date, title, images, tags, readingTime } = frontMatter
+const { slug, fileName, date, title, tags, readingTime } = frontMatter;
 
+// Display the number of words in the post
+const wordCount = readingTime.words;
+
+// Display the estimated reading time in minutes
+const readingTimeInMinutes = readingTime.text;
+
+// Display both the number of words and the estimated reading time
+console.log(`${wordCount} words (${readingTimeInMinutes} min read)`);
+
+  
   return (
     <SectionContainer>
       <BlogSEO
