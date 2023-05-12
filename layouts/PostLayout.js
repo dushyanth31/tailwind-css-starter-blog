@@ -17,9 +17,7 @@ const discussUrl = (slug) =>
 const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
-const { slug, fileName, date, title, tags, readingMinutes } = frontMatter;
-  const roundedReadingMinutes = Math.round(readingMinutes);
-  const viewCount = useViewCounter(slug);
+const { slug, fileName, date, title, images, tags, readingTime } = frontMatter
   
   return (
     <SectionContainer>
