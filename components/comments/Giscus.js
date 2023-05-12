@@ -36,7 +36,7 @@ const Giscus = () => {
     script.setAttribute('data-repo-id', 'R_kgDOJJjdyA')
     script.setAttribute('data-category', 'General')
     script.setAttribute('data-category-id', 'DIC_kwDOJJjdyM4CWcnX')
-    script.setAttribute('data-mapping', 'pathname')
+    script.setAttribute('data-mapping', 'title')
     script.setAttribute('data-reactions-enabled', '1')
     script.setAttribute('data-emit-metadata', '0')
     script.setAttribute('data-input-position', 'bottom')
