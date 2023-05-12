@@ -7,12 +7,15 @@ summary: 'A QuickStart to the basics of digital world...'
 authors: ['default']
 ---
 
+const readingTime = Math.ceil(document.body.textContent.split(' ').length / 250);
+
 <p id="read-time">
   Estimated reading time:
   <span class="text-sm text-gray-500">
-    {readingTime}
+    {readingTime} minutes
   </span>
 </p>
+
 
 > Arguing That You Don’t Care About the Right to Privacy because You have Nothing to Hide, is No Different than Saying you don’t Care about Free Speech because you have Nothing to Say. – Edward Snowden
 
