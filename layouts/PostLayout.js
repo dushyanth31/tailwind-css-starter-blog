@@ -44,7 +44,6 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               <div>
                 <PageTitle>{title}</PageTitle>
               </div>
-              <div className="text-gray-500 dark:text-gray-400">{content.readingTime.text}</div>
             </div>
           </header>
           <div
