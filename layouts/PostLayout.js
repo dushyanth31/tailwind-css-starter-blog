@@ -18,6 +18,7 @@ const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day:
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
   const { slug, fileName, date, title, images, tags, readingTime } = frontMatter
+  console.log(content.readingTime.text)
 
   return (
     <SectionContainer>
@@ -44,6 +45,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               <div>
                 <PageTitle>{title}</PageTitle>
               </div>
+              <div className="text-gray-500 dark:text-gray-400">{content.readingTime.text}</div>
             </div>
           </header>
           <div
